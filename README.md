@@ -14,8 +14,19 @@ The game was built using Godot Engine and GDScript.
 
 ---
 
-## Demo
----
+## 🎮 Download the Game
+
+Want to try it?  
+👉 [Download PlataformingGame.zip](./PlataformingGame.zip)
+
+### 🕹️ How to Play
+
+1. Download and unzip the file  
+2. Open the folder  
+3. Run `PlataformingGame.exe`  
+4. Avoid enemies and collect coins!
+
+This game was made as a learning project using the Godot Engine by following a Brackeys tutorial.
 
 ## License
 
