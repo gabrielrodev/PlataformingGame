@@ -15,9 +15,6 @@ The game was built using Godot Engine and GDScript.
 ---
 
 ## Demo
-
-*Coming soon — possibly a short video or some screenshots.*
-
 ---
 
 ## License
